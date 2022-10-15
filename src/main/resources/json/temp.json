@@ -1,0 +1,17 @@
+{
+  "op": "AND",
+  "fields": [
+    {
+      "field": "properties",
+      "op": "ANY",
+      "values": [
+        {
+          "funny": "false",
+          "fit": "true"
+        }
+      ]
+    }
+  ],
+  "requiredFields": [
+  ]
+}
